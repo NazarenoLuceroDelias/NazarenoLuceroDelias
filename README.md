@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NazarenoLuceroDelias
-- 👀 I’m interested in learning JavaScript,HTML,CSS,.NET 
-- 🌱 I’m currently learning JAVA and SQL
+- 👀 I’m interested in learning Angular,react.js
+- 🌱 I’m currently learning JAVA, SQL, JavaScript, HTML5, CSS3
 - 💞️ I’m looking to collaborate on any kind of proyect that caught my attention
 - 📫 How to reach me my mail is nazalucerodelias@gmail.com and my linkedin is linkedin.com/in/nazareno-lucero-delias
 
